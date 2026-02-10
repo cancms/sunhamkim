@@ -7,7 +7,10 @@ layout: homepage
 
 <h2 style="margin: 0px 0px 10px;">About Me</h2>
 
-Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](https://www.kdi.re.kr/eng/). Before joining KDI, I earned my Ph.D. in Economics from Purdue University.  
+Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](https://www.kdi.re.kr/eng/). Before joining KDI, I earned my Ph.D. in Economics from Purdue University.
+
+Another paragraph of introduction.
+
 <!-- <a href="./cv.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px; color: #000000; border: 1px solid #000000; padding-left: 0.25rem; padding-right: 0.25rem;">Vitae</a>  -->
 
 <!-- <h4 style="margin:0 0 0;">Upcoming Talks</h4>
@@ -21,6 +24,9 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 ## Research Interests
 
 - Spatial economics, International trade, Macroeconomics, Labor Economics
+- Research interest1
+- Research interest2
+- Research interest3
 
   ***
 
@@ -28,9 +34,15 @@ Welcome! I am an Associate Fellow at the [Korea Development Institute (KDI)](htt
 
   ***
 
+  {% include_relative _includes/publications.md %}
+
+  ***
+
   {% include_relative _includes/teaching.md %}
 
 <!--- {% include_relative _includes/services.md %} --->
+
+
 <!--- {% include_relative _includes/contact.md %}  --->
 
 ---

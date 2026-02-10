@@ -3,6 +3,9 @@ layout: homepage
 ---
 <div class="blank-div"></div>
 
+## International Trade and Spatial Economics Materials -- TEST
+* Baidu [(Baidu)](https://www.baidu.com){:target="_blank" rel="noopener"}
+
 ## International Trade and Spatial Economics Materials
 * Slides [(Dave Donaldson)](https://dave-donaldson.com/teaching){:target="_blank" rel="noopener"}
 * Notes [(Treb Allen)](https://sites.google.com/site/treballen/graduate-trade){:target="_blank" rel="noopener"}

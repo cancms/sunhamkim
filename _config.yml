@@ -1,15 +1,16 @@
 # Basic Information
 title: Sunham Kim
-position: Associate Fellow
-affiliation: Korea Development Institute
+position: Associate Fellow - Position
+affiliation: Korea Development Institute - Company
 affiliation_link: https://kdi.re.kr/eng/
 affiliation_logo: ./assets/img/logo.svg
-email: sunhamkim (at) gmail.com
+email: sunhamkim @ gmail.com
 emailalt: sunham.kim (at) kdi.re.kr
 
 # Search Engine Optimization (SEO)
 keywords: sunham kim, kim sunham, sunhamkim, kimsunham, sunham, economics, econ, korea development institute, kdi
-canonical: https://sunhamkim.github.io
+#canonical: https://sunhamkim.github.io
+canonical: https://cancms.github.io/sunhamkim
 description: Sunham Kim is an Associate Fellow at the Korea Development Institute. His research insterest includes spatial economics, international trade, and macroeconomics.
 
 # The option is used to enable the MPI Informatics template.
@@ -23,7 +24,8 @@ linkedin: https://www.linkedin.com/in/sunhamkim/
 twitter: https://twitter.com/sunham_kim/
 
 # Images
-avatar: ./files/img/profile_1.jpg
+#avatar: ./files/img/profile_1.jpg
+avatar: ./files/img/profile_1.png
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
